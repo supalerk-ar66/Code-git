@@ -1,4 +1,5 @@
 ลบ usaer ที่ โคน มา
+
 git remote -v
 rm -rf .git*
 git init
